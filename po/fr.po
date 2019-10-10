@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gsconnect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-10 07:07-0400\n"
-"PO-Revision-Date: 2019-09-25 20:37\n"
+"PO-Revision-Date: 2019-10-10 11:13\n"
 "Last-Translator: Andy Holmes (andyholmes)\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -453,9 +453,7 @@ msgstr "Entrer un nouveau raccourci pour modifier <b>%s</b>"
 #. TRANSLATORS: Keys for cancelling (␛) or resetting (␈) a shortcut
 #: src/preferences/keybindings.js:125
 msgid "Press Esc to cancel or Backspace to reset the keyboard shortcut."
-msgstr ""
-"Appuyez sur Echap pour annuler ou sur Retour Arrière pour réinitialiser le "
-"raccourci clavier."
+msgstr "Appuyez sur Echap pour annuler ou sur Retour Arrière pour réinitialiser le raccourci clavier."
 
 #. TRANSLATORS: When a keyboard shortcut is unavailable
 #. Example: [Ctrl]+[S] is already being used
@@ -474,12 +472,8 @@ msgid "translator-credits"
 msgstr "Mickaël Coiraton <mickael.coiraton@gmail.com>"
 
 #: src/preferences/service.js:430
-msgid ""
-"Debug messages are being logged. Take any steps necessary to reproduce a "
-"problem then review the log."
-msgstr ""
-"Les messages de dépannage sont enregistrés. Faites le nécessaire pour "
-"reproduire le problème puis vérifiez le fichier de log."
+msgid "Debug messages are being logged. Take any steps necessary to reproduce a problem then review the log."
+msgstr "Les messages de dépannage sont enregistrés. Faites le nécessaire pour reproduire le problème puis vérifiez le fichier de log."
 
 #: src/preferences/service.js:433
 msgid "Review Log"
@@ -534,11 +528,8 @@ msgid "Click for help troubleshooting"
 msgstr "Cliquer pour l'aide de dépannage"
 
 #: src/service/daemon.js:599
-msgid ""
-"Discovery has been disabled due to the number of devices on this network."
-msgstr ""
-"La découverte a été désactivée en raison du nombre de périphériques sur ce "
-"réseau."
+msgid "Discovery has been disabled due to the number of devices on this network."
+msgstr "La découverte a été désactivée en raison du nombre de périphériques sur ce réseau."
 
 #: src/service/daemon.js:608
 msgid "Click for more information"
@@ -1019,7 +1010,7 @@ msgstr "Ne pas déranger"
 
 #: src/shell/donotdisturb.js:249
 msgid "Silence Notifications from Mobile Devices"
-msgstr "Désactiver les notifications de l'appareil mobile"
+msgstr ""
 
 #: src/shell/donotdisturb.js:261
 msgid "Until you turn off Do Not Disturb"
@@ -1041,8 +1032,7 @@ msgstr "GSConnect"
 #. TRANSLATORS: Chrome/Firefox WebExtension description
 #: webextension/gettext.js:29
 msgid "Share links with GSConnect, direct to the browser or by SMS."
-msgstr ""
-"Partagez des liens avec GSConnect, directement vers le navigateur ou par SMS."
+msgstr "Partagez des liens avec GSConnect, directement vers le navigateur ou par SMS."
 
 #. TRANSLATORS: WebExtension can't connect to GSConnect
 #: webextension/gettext.js:33
@@ -1053,3 +1043,4 @@ msgstr "Service indisponible"
 #: webextension/gettext.js:37
 msgid "Open in Browser"
 msgstr "Ouvrir dans le navigateur"
+
