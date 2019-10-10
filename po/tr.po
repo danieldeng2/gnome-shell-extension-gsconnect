@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gsconnect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-10 07:07-0400\n"
-"PO-Revision-Date: 2019-10-10 11:12\n"
+"PO-Revision-Date: 2019-10-10 16:36\n"
 "Last-Translator: Andy Holmes (andyholmes)\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -733,7 +733,7 @@ msgstr "Yokla: %s"
 
 #: src/service/plugins/presenter.js:9
 msgid "Presentation"
-msgstr ""
+msgstr "Sunum"
 
 #: src/service/plugins/runcommand.js:12
 msgid "Run Commands"
