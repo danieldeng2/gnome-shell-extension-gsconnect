@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gsconnect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-10 07:07-0400\n"
-"PO-Revision-Date: 2019-10-10 11:13\n"
+"PO-Revision-Date: 2019-10-11 11:25\n"
 "Last-Translator: Andy Holmes (andyholmes)\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -732,7 +732,7 @@ msgstr "Comprovació de connectivitat: %s"
 
 #: src/service/plugins/presenter.js:9
 msgid "Presentation"
-msgstr ""
+msgstr "Presentació"
 
 #: src/service/plugins/runcommand.js:12
 msgid "Run Commands"
